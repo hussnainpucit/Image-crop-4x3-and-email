@@ -18,3 +18,9 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 You can also:
   - You can also place image in Images and use that for cropping
 
+# Installation
+- git clone https://github.com/hussnainpucit/Image-crop-4x3-and-email.git
+- cd Image-crop-4x3-and-email
+- npm install
+- npm run dev
+- Now hit in brwoser http://localhost:3000
